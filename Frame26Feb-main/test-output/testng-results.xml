@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22417" started-at="2022-06-29T17:11:24 IST" finished-at="2022-06-29T17:11:46 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22417" started-at="2022-06-29T17:11:24 IST" finished-at="2022-06-29T17:11:46 IST">
+      <class name="TestCases.LoginPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestCases.LoginPageTest@18a70f16]" name="setup" is-config="true" duration-ms="10093" started-at="2022-06-29T17:11:24 IST" finished-at="2022-06-29T17:11:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginToAppTest()[pri:0, instance:TestCases.LoginPageTest@18a70f16]" name="loginToAppTest" duration-ms="2207" started-at="2022-06-29T17:11:34 IST" finished-at="2022-06-29T17:11:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToAppTest -->
+        <test-method status="PASS" signature="exit()[pri:0, instance:TestCases.LoginPageTest@18a70f16]" name="exit" is-config="true" duration-ms="918" started-at="2022-06-29T17:11:36 IST" finished-at="2022-06-29T17:11:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestCases.LoginPageTest@18a70f16]" name="setup" is-config="true" duration-ms="2733" started-at="2022-06-29T17:11:37 IST" finished-at="2022-06-29T17:11:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyTitleTest()[pri:0, instance:TestCases.LoginPageTest@18a70f16]" name="verifyTitleTest" duration-ms="13" started-at="2022-06-29T17:11:40 IST" finished-at="2022-06-29T17:11:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitleTest -->
+        <test-method status="PASS" signature="exit()[pri:0, instance:TestCases.LoginPageTest@18a70f16]" name="exit" is-config="true" duration-ms="249" started-at="2022-06-29T17:11:40 IST" finished-at="2022-06-29T17:11:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestCases.LoginPageTest@18a70f16]" name="setup" is-config="true" duration-ms="2692" started-at="2022-06-29T17:11:40 IST" finished-at="2022-06-29T17:11:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyKiteLogoTest()[pri:0, instance:TestCases.LoginPageTest@18a70f16]" name="verifyKiteLogoTest" duration-ms="213" started-at="2022-06-29T17:11:43 IST" depends-on-methods="TestCases.LoginPageTest.verifyTitleTest" finished-at="2022-06-29T17:11:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyKiteLogoTest -->
+        <test-method status="PASS" signature="exit()[pri:0, instance:TestCases.LoginPageTest@18a70f16]" name="exit" is-config="true" duration-ms="247" started-at="2022-06-29T17:11:43 IST" finished-at="2022-06-29T17:11:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestCases.LoginPageTest@18a70f16]" name="setup" is-config="true" duration-ms="2710" started-at="2022-06-29T17:11:43 IST" finished-at="2022-06-29T17:11:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyZerodhaLogoTest()[pri:0, instance:TestCases.LoginPageTest@18a70f16]" name="verifyZerodhaLogoTest" duration-ms="42" started-at="2022-06-29T17:11:46 IST" depends-on-methods="TestCases.LoginPageTest.verifyTitleTest" finished-at="2022-06-29T17:11:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyZerodhaLogoTest -->
+        <test-method status="PASS" signature="exit()[pri:0, instance:TestCases.LoginPageTest@18a70f16]" name="exit" is-config="true" duration-ms="239" started-at="2022-06-29T17:11:46 IST" finished-at="2022-06-29T17:11:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- TestCases.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
